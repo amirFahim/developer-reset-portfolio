@@ -9,9 +9,9 @@ h1{
 .orrenge{
     color: orange;
 }
-section{
+.flexible-container{
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
